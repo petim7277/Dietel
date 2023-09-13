@@ -1,4 +1,4 @@
-package ChapterThreeExercises;
+/*package ChapterThreeExercises;
 
 import java.util.Scanner;
 public class ClockTest {
@@ -57,3 +57,4 @@ public class ClockTest {
 
     }
 }
+*/
