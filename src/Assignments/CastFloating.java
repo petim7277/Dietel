@@ -12,6 +12,7 @@ public class CastFloating {
 
         }
 
+
     }
     public void prints (int number){
         System.out.println(number);

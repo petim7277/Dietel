@@ -19,13 +19,13 @@ public void setHours(int hours){
 }
 public void setMinutes(int minutes){
     if(minutes>23){
-    this.minutes = 0;  
+    this.minutes = minutes;
     }else{this.minutes = minutes ;
     }
 }
 public void setSeconds(int seconds){
     if(seconds>23){
-        this.seconds = 0;
+        this.seconds = seconds;
     }else {this.seconds = seconds;  
     }
 }

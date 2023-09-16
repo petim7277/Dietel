@@ -2,6 +2,9 @@ package PersonalProgress;
 
 public class DisplayAPattern {
     public static void main(String[] args) {
+
+
+        Methods.print(90);
         System.out.println(" j");
         System.out.println(" j");
         System.out.print("j");
