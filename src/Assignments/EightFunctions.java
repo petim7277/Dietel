@@ -31,10 +31,11 @@ public class EightFunctions {
               return Math.abs(result);
           } else if (numberTwo > numberOne) {
               total = numberTwo - numberOne;
+              return total;
+
           }
-          return total;
 
-
+         return total;
       }
 
 

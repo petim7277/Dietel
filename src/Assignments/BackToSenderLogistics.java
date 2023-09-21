@@ -2,11 +2,11 @@ package Assignments;
 
 public class BackToSenderLogistics {
     //Base pay
-   public static int basePay  = 5000;
+   private static int basePay  = 5000;
     //Amount per parcel
-   public   int firstAmount = 160;
-   public  int secondAmount = 200;
-   public  int thirdAmount = 250;
+   private    int firstAmount = 160;
+   private   int secondAmount = 200;
+   private   int thirdAmount = 250;
    public static int fourthAmount = 500;
 
 
