@@ -4,7 +4,7 @@ public class KillingMyFearsOnLoops {
     public static void main(String[] args) {
         //sumOfNaturalNumbers(10) ;
         //raisedToPowerOfNumber(3,4);
-        Factorial(5);
+        factorialOfNumber(3);
 
     }
 
@@ -42,8 +42,16 @@ public class KillingMyFearsOnLoops {
         System.out.println(exponential);
         return exponential;
     }
-  public  int  factorialOfNumber(int number){
-   return number;
+  public static int  factorialOfNumber(int number){
+        int factorial = 1;
+        int count;
+        int result = 0;
+      for ( count = 1; count < number ; count++) {
+           result = factorial * number ;
+
+      }
+      System.out.println(result);
+   return result;
   }
 
 }

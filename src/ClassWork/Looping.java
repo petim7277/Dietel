@@ -1,4 +1,4 @@
-package chapterFour;
+package ClassWork;
 //import java.util.Scanner;
 public class Looping {
     public static void main(String[] args) {

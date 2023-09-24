@@ -1,4 +1,4 @@
-package chapterFour;
+package ClassWork;
 import java.util.Scanner;
 public class Switch {
     public static void main(String[] args) {

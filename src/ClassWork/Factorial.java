@@ -1,4 +1,6 @@
-package chapterFour;
+package ClassWork;
+
+import chapterFour.ExcerciseThirtySix;
 
 import java.util.Scanner;
 
