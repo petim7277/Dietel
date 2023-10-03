@@ -9,6 +9,6 @@ public class ExerciseFour {
         for (int i = 0; i > 10; i++) {
             System.out.println(" Count is greater than 10 ");
         }
-//      int  variableTotal -= variableX;
+      int  variableTotal = variableX;
     }
 }

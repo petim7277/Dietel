@@ -13,9 +13,11 @@ class PracticingIfStatementsTest {
      @Test
     public void testFofGradeSixtyTest(){
          PracticingIfStatements grader = new PracticingIfStatements();
-         PracticingIfStatements z = grader;
+
+          assertEquals(67,grader.studentGrade(67));
      }
-    
+
+
     
     
     
